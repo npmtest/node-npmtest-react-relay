@@ -1,0 +1,147 @@
+<svg height="2302" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="2302" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-18 12:21:35 +0000  1861190 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 12:21:35 +0000    20181 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 12:21:35 +0000     1526 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 12:21:35 +0000     1974 bytes  PATENTS</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 12:21:35 +0000     1657 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 12:21:35 +0000   837250 bytes  dist/relay.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 12:21:35 +0000   274325 bytes  dist/relay.min.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 12:21:35 +0000    14853 bytes  lib/BabelPluginGraphQL.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 12:21:35 +0000      363 bytes  lib/ConcreteQuery.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 12:21:35 +0000     1760 bytes  lib/GraphQLMutatorConstants.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 12:21:35 +0000     8046 bytes  lib/GraphQLQueryRunner.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 12:21:35 +0000    36987 bytes  lib/GraphQLRange.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 12:21:35 +0000    20773 bytes  lib/GraphQLSegment.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 12:21:35 +0000     4288 bytes  lib/GraphQLStoreChangeEmitter.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-18 12:21:35 +0000    10891 bytes  lib/GraphQLStoreQueryResolver.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-18 12:21:35 +0000     3737 bytes  lib/GraphQLStoreRangeUtils.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-18 12:21:35 +0000     7281 bytes  lib/QueryBuilder.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-18 12:21:35 +0000     1344 bytes  lib/Relay.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-18 12:21:35 +0000     6761 bytes  lib/RelayCacheProcessor.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-18 12:21:35 +0000     2297 bytes  lib/RelayChangeTracker.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-18 12:21:35 +0000      430 bytes  lib/RelayConnectionInterface.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-18 12:21:35 +0000    35038 bytes  lib/RelayContainer.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-18 12:21:35 +0000     2644 bytes  lib/RelayContainerComparators.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-18 12:21:35 +0000      420 bytes  lib/RelayContainerProxy.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-18 12:21:35 +0000     1340 bytes  lib/RelayContainerUtils.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-18 12:21:35 +0000     6781 bytes  lib/RelayDefaultNetworkLayer.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-18 12:21:35 +0000     7069 bytes  lib/RelayEnvironment.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-18 12:21:35 +0000      932 bytes  lib/RelayEnvironmentSerializer.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-18 12:21:35 +0000      371 bytes  lib/RelayEnvironmentTypes.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-18 12:21:35 +0000     1369 bytes  lib/RelayError.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-18 12:21:35 +0000     2079 bytes  lib/RelayEventStatus.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-18 12:21:35 +0000      701 bytes  lib/RelayFetchMode.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-18 12:21:35 +0000     5668 bytes  lib/RelayFragmentPointer.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-18 12:21:35 +0000     7679 bytes  lib/RelayFragmentReference.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-18 12:21:35 +0000     2962 bytes  lib/RelayGarbageCollection.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-18 12:21:35 +0000     7354 bytes  lib/RelayGarbageCollector.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-18 12:21:35 +0000    11168 bytes  lib/RelayGraphQLMutation.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-18 12:21:35 +0000      813 bytes  lib/RelayGraphQLTag.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-18 12:21:35 +0000      465 bytes  lib/RelayInternalTypes.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-18 12:21:35 +0000      812 bytes  lib/RelayInternals.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-18 12:21:35 +0000     1107 bytes  lib/RelayMetaRoute.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-18 12:21:35 +0000     5149 bytes  lib/RelayMetricsRecorder.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-18 12:21:35 +0000     2566 bytes  lib/RelayMockRenderer.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-18 12:21:35 +0000    14475 bytes  lib/RelayMutation.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-18 12:21:35 +0000     1525 bytes  lib/RelayMutationDebugPrinter.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-18 12:21:35 +0000    22181 bytes  lib/RelayMutationQuery.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-18 12:21:35 +0000    18624 bytes  lib/RelayMutationQueue.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-18 12:21:35 +0000     2769 bytes  lib/RelayMutationRequest.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-18 12:21:35 +0000     4034 bytes  lib/RelayMutationTracker.js</tspan>
+<tspan x="10" y="810"> 49.  2017-04-18 12:21:35 +0000     3840 bytes  lib/RelayMutationTransaction.js</tspan>
+<tspan x="10" y="826"> 50.  2017-04-18 12:21:35 +0000     1753 bytes  lib/RelayMutationTransactionStatus.js</tspan>
+<tspan x="10" y="842"> 51.  2017-04-18 12:21:35 +0000      597 bytes  lib/RelayMutationType.js</tspan>
+<tspan x="10" y="858"> 52.  2017-04-18 12:21:35 +0000     4859 bytes  lib/RelayNetworkDebug.js</tspan>
+<tspan x="10" y="874"> 53.  2017-04-18 12:21:35 +0000     5339 bytes  lib/RelayNetworkLayer.js</tspan>
+<tspan x="10" y="890"> 54.  2017-04-18 12:21:35 +0000      418 bytes  lib/RelayNodeInterface.js</tspan>
+<tspan x="10" y="906"> 55.  2017-04-18 12:21:35 +0000     2720 bytes  lib/RelayOSSConnectionInterface.js</tspan>
+<tspan x="10" y="922"> 56.  2017-04-18 12:21:35 +0000      582 bytes  lib/RelayOSSContainerProxy.js</tspan>
+<tspan x="10" y="938"> 57.  2017-04-18 12:21:35 +0000     3485 bytes  lib/RelayOSSNodeInterface.js</tspan>
+<tspan x="10" y="954"> 58.  2017-04-18 12:21:35 +0000     6564 bytes  lib/RelayOptimisticMutationUtils.js</tspan>
+<tspan x="10" y="970"> 59.  2017-04-18 12:21:35 +0000     5468 bytes  lib/RelayPendingQueryTracker.js</tspan>
+<tspan x="10" y="986"> 60.  2017-04-18 12:21:35 +0000     8739 bytes  lib/RelayProfiler.js</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-18 12:21:35 +0000     1550 bytes  lib/RelayPropTypes.js</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-18 12:21:35 +0000     1654 bytes  lib/RelayPublic.js</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-18 12:21:35 +0000     2845 bytes  lib/RelayQL.js</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-18 12:21:35 +0000      524 bytes  lib/RelayQL_GENERATED.js</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-18 12:21:35 +0000    47932 bytes  lib/RelayQuery.js</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-18 12:21:35 +0000      800 bytes  lib/RelayQueryCaching.js</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-18 12:21:35 +0000     2232 bytes  lib/RelayQueryConfig.js</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-18 12:21:35 +0000     6580 bytes  lib/RelayQueryPath.js</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-18 12:21:35 +0000     2912 bytes  lib/RelayQueryRequest.js</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-18 12:21:35 +0000     4191 bytes  lib/RelayQueryResultObservable.js</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-18 12:21:35 +0000     2695 bytes  lib/RelayQueryTracker.js</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-18 12:21:35 +0000     3354 bytes  lib/RelayQueryTransform.js</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-18 12:21:35 +0000     3508 bytes  lib/RelayQueryVisitor.js</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-18 12:21:35 +0000    21929 bytes  lib/RelayQueryWriter.js</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-18 12:21:35 +0000     2514 bytes  lib/RelayReadyState.js</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-18 12:21:35 +0000     5121 bytes  lib/RelayReadyStateRenderer.js</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-18 12:21:35 +0000     2455 bytes  lib/RelayRecord.js</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-18 12:21:35 +0000      875 bytes  lib/RelayRecordState.js</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-18 12:21:35 +0000     1583 bytes  lib/RelayRecordStatusMap.js</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-18 12:21:35 +0000    13828 bytes  lib/RelayRecordStore.js</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-18 12:21:35 +0000    20148 bytes  lib/RelayRecordWriter.js</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-18 12:21:35 +0000     1061 bytes  lib/RelayRefQueryDescriptor.js</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-18 12:21:35 +0000     8734 bytes  lib/RelayRenderer.js</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-18 12:21:35 +0000     3938 bytes  lib/RelayRootContainer.js</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-18 12:21:35 +0000     3142 bytes  lib/RelayRoute.js</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-18 12:21:35 +0000     1289 bytes  lib/RelayRouteFragment.js</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-18 12:21:35 +0000     9293 bytes  lib/RelaySelector.js</tspan>
+<tspan x="10" y="1434"> 88.  2017-04-18 12:21:35 +0000     2516 bytes  lib/RelayShallowMock.js</tspan>
+<tspan x="10" y="1450"> 89.  2017-04-18 12:21:35 +0000      417 bytes  lib/RelayStore.js</tspan>
+<tspan x="10" y="1466"> 90.  2017-04-18 12:21:35 +0000    19808 bytes  lib/RelayStoreData.js</tspan>
+<tspan x="10" y="1482"> 91.  2017-04-18 12:21:35 +0000     5464 bytes  lib/RelayTaskQueue.js</tspan>
+<tspan x="10" y="1498"> 92.  2017-04-18 12:21:35 +0000      591 bytes  lib/RelayTypes.js</tspan>
+<tspan x="10" y="1514"> 93.  2017-04-18 12:21:35 +0000     1003 bytes  lib/RelayVariable.js</tspan>
+<tspan x="10" y="1530"> 94.  2017-04-18 12:21:35 +0000     2558 bytes  lib/RelayVariables.js</tspan>
+<tspan x="10" y="1546"> 95.  2017-04-18 12:21:35 +0000     5138 bytes  lib/buildRQL.js</tspan>
+<tspan x="10" y="1562"> 96.  2017-04-18 12:21:35 +0000     2645 bytes  lib/callsFromGraphQL.js</tspan>
+<tspan x="10" y="1578"> 97.  2017-04-18 12:21:35 +0000      980 bytes  lib/callsToGraphQL.js</tspan>
+<tspan x="10" y="1594"> 98.  2017-04-18 12:21:35 +0000     6964 bytes  lib/checkRelayQueryData.js</tspan>
+<tspan x="10" y="1610"> 99.  2017-04-18 12:21:35 +0000     2171 bytes  lib/containsRelayQueryRootCall.js</tspan>
+<tspan x="10" y="1626">100.  2017-04-18 12:21:35 +0000      735 bytes  lib/createRelayQuery.js</tspan>
+<tspan x="10" y="1642">101.  2017-04-18 12:21:35 +0000     1464 bytes  lib/dedent.js</tspan>
+<tspan x="10" y="1658">102.  2017-04-18 12:21:35 +0000    27033 bytes  lib/diffRelayQuery.js</tspan>
+<tspan x="10" y="1674">103.  2017-04-18 12:21:35 +0000     1250 bytes  lib/directivesToGraphQL.js</tspan>
+<tspan x="10" y="1690">104.  2017-04-18 12:21:35 +0000     1114 bytes  lib/filterExclusiveKeys.js</tspan>
+<tspan x="10" y="1706">105.  2017-04-18 12:21:35 +0000      849 bytes  lib/filterRelayQuery.js</tspan>
+<tspan x="10" y="1722">106.  2017-04-18 12:21:35 +0000     8953 bytes  lib/findRelayQueryLeaves.js</tspan>
+<tspan x="10" y="1738">107.  2017-04-18 12:21:35 +0000     4254 bytes  lib/flattenRelayQuery.js</tspan>
+<tspan x="10" y="1754">108.  2017-04-18 12:21:35 +0000     1123 bytes  lib/flattenSplitRelayQueries.js</tspan>
+<tspan x="10" y="1770">109.  2017-04-18 12:21:35 +0000     1391 bytes  lib/forEachRootCallArg.js</tspan>
+<tspan x="10" y="1786">110.  2017-04-18 12:21:35 +0000     2337 bytes  lib/fromGraphQL.js</tspan>
+<tspan x="10" y="1802">111.  2017-04-18 12:21:35 +0000      649 bytes  lib/generateClientEdgeID.js</tspan>
+<tspan x="10" y="1818">112.  2017-04-18 12:21:35 +0000      711 bytes  lib/generateClientID.js</tspan>
+<tspan x="10" y="1834">113.  2017-04-18 12:21:35 +0000     1174 bytes  lib/generateConcreteFragmentID.js</tspan>
+<tspan x="10" y="1850">114.  2017-04-18 12:21:35 +0000      635 bytes  lib/generateForceIndex.js</tspan>
+<tspan x="10" y="1866">115.  2017-04-18 12:21:35 +0000     1343 bytes  lib/generateRQLFieldAlias.js</tspan>
+<tspan x="10" y="1882">116.  2017-04-18 12:21:35 +0000     1658 bytes  lib/getRangeBehavior.js</tspan>
+<tspan x="10" y="1898">117.  2017-04-18 12:21:35 +0000     2705 bytes  lib/getRelayQueries.js</tspan>
+<tspan x="10" y="1914">118.  2017-04-18 12:21:35 +0000     4957 bytes  lib/intersectRelayQuery.js</tspan>
+<tspan x="10" y="1930">119.  2017-04-18 12:21:35 +0000     1067 bytes  lib/isCompatibleRelayFragmentType.js</tspan>
+<tspan x="10" y="1946">120.  2017-04-18 12:21:35 +0000      573 bytes  lib/isRelayContainer.js</tspan>
+<tspan x="10" y="1962">121.  2017-04-18 12:21:35 +0000      826 bytes  lib/isRelayEnvironment.js</tspan>
+<tspan x="10" y="1978">122.  2017-04-18 12:21:35 +0000    10009 bytes  lib/printRelayOSSQuery.js</tspan>
+<tspan x="10" y="1994">123.  2017-04-18 12:21:35 +0000      412 bytes  lib/printRelayQuery.js</tspan>
+<tspan x="10" y="2010">124.  2017-04-18 12:21:35 +0000     1258 bytes  lib/rangeOperationToMetadataKey.js</tspan>
+<tspan x="10" y="2026">125.  2017-04-18 12:21:35 +0000    16902 bytes  lib/readRelayQueryData.js</tspan>
+<tspan x="10" y="2042">126.  2017-04-18 12:21:35 +0000     2019 bytes  lib/recycleNodesInto.js</tspan>
+<tspan x="10" y="2058">127.  2017-04-18 12:21:35 +0000      437 bytes  lib/relayUnstableBatchedUpdates.js</tspan>
+<tspan x="10" y="2074">128.  2017-04-18 12:21:35 +0000      436 bytes  lib/relayUnstableBatchedUpdates.native.js</tspan>
+<tspan x="10" y="2090">129.  2017-04-18 12:21:35 +0000     7677 bytes  lib/restoreRelayCacheData.js</tspan>
+<tspan x="10" y="2106">130.  2017-04-18 12:21:35 +0000     1292 bytes  lib/serializeRelayQueryCall.js</tspan>
+<tspan x="10" y="2122">131.  2017-04-18 12:21:35 +0000      578 bytes  lib/sortTypeFirst.js</tspan>
+<tspan x="10" y="2138">132.  2017-04-18 12:21:35 +0000     9936 bytes  lib/splitDeferredRelayQueries.js</tspan>
+<tspan x="10" y="2154">133.  2017-04-18 12:21:35 +0000     2423 bytes  lib/stableStringify.js</tspan>
+<tspan x="10" y="2170">134.  2017-04-18 12:21:35 +0000     2841 bytes  lib/testEditDistance.js</tspan>
+<tspan x="10" y="2186">135.  2017-04-18 12:21:35 +0000     3375 bytes  lib/toGraphQL.js</tspan>
+<tspan x="10" y="2202">136.  2017-04-18 12:21:35 +0000     5233 bytes  lib/transformRelayQueryPayload.js</tspan>
+<tspan x="10" y="2218">137.  2017-04-18 12:21:35 +0000     3856 bytes  lib/validateMutationConfig.js</tspan>
+<tspan x="10" y="2234">138.  2017-04-18 12:21:35 +0000     4048 bytes  lib/validateRelayReadQuery.js</tspan>
+<tspan x="10" y="2250">139.  2017-04-18 12:21:35 +0000     1517 bytes  lib/writeRelayQueryPayload.js</tspan>
+<tspan x="10" y="2266">140.  2017-04-18 12:21:35 +0000    18426 bytes  lib/writeRelayUpdatePayload.js</tspan>
+<tspan x="10" y="2282">141.  2017-04-18 12:21:35 +0000     5589 bytes  package.json</tspan>
+</text>
+</svg>
