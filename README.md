@@ -1,6 +1,6 @@
 # npmtest-react-relay
 
-#### test coverage for  [react-relay (v0.10.0)](https://facebook.github.io/relay/)  [![npm package](https://img.shields.io/npm/v/npmtest-react-relay.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-relay) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-relay.svg)](https://travis-ci.org/npmtest/node-npmtest-react-relay)
+#### basic test coverage for  [react-relay (v0.10.0)](https://facebook.github.io/relay/)  [![npm package](https://img.shields.io/npm/v/npmtest-react-relay.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-relay) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-relay.svg)](https://travis-ci.org/npmtest/node-npmtest-react-relay)
 
 #### A framework for building data-driven React applications.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-react-relay/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-react-relay/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-react-relay/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-react-relay/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-react-relay/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-react-relay/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-react-relay/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-react-relay/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-react-relay/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-react-relay/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-react-relay/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-react-relay/build/coverage.html/index.html)
 
@@ -182,7 +182,8 @@
         "typecheck": "flow check src/",
         "update-schema": "babel-node ./scripts/jest/updateSchema.js"
     },
-    "version": "0.10.0"
+    "version": "0.10.0",
+    "bin": {}
 }
 ```
 
